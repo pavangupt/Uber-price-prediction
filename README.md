@@ -14,3 +14,11 @@ Objectives:-  1) Understanding the dataset and preprocessing it
               2) Building various regression model to find optimal solution
               3)Evaluating the model using parameters such as mse, r2, rmse etc.
               
+Here are the following strategy:- 
+1) Data Exploration
+2) Exploratory Data Analysis
+3) Data Preprocessing
+4) Feature Engineering
+5) Feature Selection
+6) Model Building
+7) Model Evaluation
