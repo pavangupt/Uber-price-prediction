@@ -22,3 +22,6 @@ Here are the following strategy:-
 5) Feature Selection
 6) Model Building
 7) Model Evaluation
+
+![image](https://user-images.githubusercontent.com/91775600/151833841-b10ad1c0-41d8-476d-a93b-f75f65aba37d.png)
+
